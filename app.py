@@ -2,7 +2,7 @@ import streamlit as st
 # Cấu hình trang web của ứng dụng
 st.set_page_config(page_title="App Tính Thuế TNCN Việt Nam 2026", page_icon="💰", layout="centered")
 # --- CHÈN LOGO THEO FILE TRỰC TIẾP ---
-st.image("logo.jpg")
+st.image("PHAT.jpg")
 # --- THÔNG TIN THÀNH VIÊN VÀ ĐỀ TÀI ---
 st.markdown("### 📝 ** Hoang Ngoc Anh **")
 st.title("💰 Ứng Dụng Tính Thuế Thu Nhập Cá Nhân")
